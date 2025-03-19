@@ -63,7 +63,7 @@ Run the following commands from the root of the project:
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/doremon-me/YellowBaba.git
    cd front-end
    ```
 
